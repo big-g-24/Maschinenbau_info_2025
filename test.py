@@ -1,1 +1,2 @@
-print("hallo welt")
+eingabe_1 = input("welche zahlen möchtest du addierebn")
+
