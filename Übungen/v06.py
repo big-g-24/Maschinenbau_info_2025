@@ -49,12 +49,3 @@ print(f"Spannung: {sigma} MPa")
 print(f"Klasse: {klasse}")
 ###
 
-#Übung 4
-
-###
-material = [aluminium, Stahl, Edelstahl]
-komplexität = [Einfach, Mittel, Schwer]
-
-barbeitung = input("berb. Zeit: ")
-material = input("")
-print(material)
